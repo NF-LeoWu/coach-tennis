@@ -1,8 +1,8 @@
 namespace lib
 {
-    class Budget
+  public  class Budget
     {
-        public string year;
+        public string YearMonth;
         public decimal Amount;
     }
 }

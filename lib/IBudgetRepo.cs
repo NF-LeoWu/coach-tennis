@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace lib
 {
-    interface IBudgetRepo
+    public interface IBudgetRepo
     {
         List<Budget> GetAll();
     }
