@@ -1,0 +1,6 @@
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\bin\Debug\lib.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\bin\Debug\lib.pdb
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\obj\Debug\lib.csproj.AssemblyReference.cache
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\obj\Debug\lib.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\lib\obj\Debug\lib.pdb

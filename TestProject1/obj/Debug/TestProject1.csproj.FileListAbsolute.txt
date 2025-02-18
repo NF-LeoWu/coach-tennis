@@ -1,0 +1,17 @@
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\Castle.Core.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\lib.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\NSubstitute.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\lib.pdb
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\Castle.Core.xml
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\NSubstitute.xml
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\obj\Debug\TestProject1.csproj.AssemblyReference.cache
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\obj\Debug\TestProj.494AA513.Up2Date
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\sam.lin\Desktop\coach-tennis2\TestProject1\obj\Debug\TestProject1.pdb
